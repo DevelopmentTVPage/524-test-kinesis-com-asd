@@ -1,0 +1,15 @@
+{
+    "title": "test kinesis",
+    "baseURL": "https:\/\/test.kinesis.com.asd",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "com.asd"
+    }
+}
